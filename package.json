@@ -10,14 +10,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/WardVanlaar/tech-blog.git"
+        "url": "git+https://github.com/mccannEthan335/tech-blog.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/WardVanlaar/tech-blog/issues"
+        "url": "https://github.com/mccannEthan335/tech-blog/issues"
     },
-    "homepage": "https://github.com/WardVanlaar/tech-blog#readme",
+    "homepage": "https://github.com/mccannEthan335/tech-blog#readme",
     "dependencies": {
         "bcrypt": "^5.0.1",
         "connect-session-sequelize": "^7.1.2",
